@@ -58,3 +58,7 @@ typings/
 .env
 
 .idea/
+.vscode/
+
+# secret key
+secret.MD
