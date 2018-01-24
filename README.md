@@ -25,4 +25,8 @@ npm start
  - npm install --save package
  - npm install --save-dev package
 
+### TODO
+ - parsing return JSON
+ - personal vocabulary book
+
 Thanks to <https://github.com/electron/electron-quick-start>
