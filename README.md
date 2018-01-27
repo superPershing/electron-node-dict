@@ -5,6 +5,7 @@
 ```
 sudo apt-get install nodejs-legacy npm
 git clone https://github.com/superPershing/electron-node-dict.git
+cd electron-node-dict/
 npm install
 cd dict-app/
 npm install
@@ -13,9 +14,10 @@ npm start
 ```
 
 ## Tools may help you
- - cnpm
+ - [cnpm](https://github.com/cnpm/cnpm)
  - [standard](https://github.com/standard/standard)
  - [nodemon](https://github.com/remy/nodemon)
+ - [有道智云](http://ai.youdao.com/gw.s)
 
 ## express init
  - express dict-app
@@ -26,7 +28,7 @@ npm start
  - npm install --save-dev package
 
 ### TODO
- - parsing return JSON
+ - Beautify the front-end
  - personal vocabulary book
 
 Thanks to <https://github.com/electron/electron-quick-start>
